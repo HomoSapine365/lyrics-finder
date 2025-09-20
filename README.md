@@ -20,10 +20,10 @@ A simple and responsive web app that lets users search for song lyrics by artist
 
 ## 📸 Screenshots
 
-output-screenshot.jpeg
+![Lyrics Finder Output](output-screenshot.jpeg)
 
 ## 📦 How to Run
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lyrics-finder.git
+   git clone https://github.com/HomoSapine365/lyrics-finder.git
