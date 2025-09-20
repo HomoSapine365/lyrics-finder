@@ -20,7 +20,7 @@ A simple and responsive web app that lets users search for song lyrics by artist
 
 ## 📸 Screenshots
 
-
+output-screenshot.jpeg
 
 ## 📦 How to Run
 
